@@ -46,7 +46,7 @@ javac *.java
 4. Run the application:
 
 ```bash
-java Bookstore
+java src
 ```
 
 ## Usage
